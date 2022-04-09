@@ -1,0 +1,86 @@
+/* Zachary Browning 4/9/22 */
+.link{
+  color:grey;
+  text-decoration: underline;
+}
+.align-center {
+  align-items: center;
+}
+.padding-left {
+  padding-left: 120px;
+}
+
+
+.common {
+   /* background-color: #ccc;
+   border: solid 2px white; */
+   position: absolute;
+}
+
+.header {
+   top: 5px;
+   left: 5px;
+   right: 5px;
+   height: 100px;
+   z-index: 2;
+   border-bottom: solid 1px white;
+   background-color: lightgreen;
+}
+
+
+.mainbody {
+   top: 114px;
+   background-color: black;
+   left: 200px;
+   right: 200px;
+   padding-top: 30px;
+   padding-right: 4px;
+}
+
+.footer {
+   bottom: 5px;
+   height: 100px;
+   left: 5px;
+   right: 5px;
+   font-size: 8px;
+   color:lightgrey;
+   text-align: center;
+   position: fixed;
+}
+.commonborder {
+  border: white 30px;
+}
+.padding1 {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.align-center {
+  align-items: center;
+}
+.tableausize {
+  padding-right: 80px;
+  padding-left: 2px;
+  height: 150px;
+  width: 200px;
+}
+.tableaufooter {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 30px;
+  width: auto;
+  background-color: black;
+}
+.customnavbar {
+  font-size: large;
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.bgcolor {
+  background-color: lightgrey;
+}
+
